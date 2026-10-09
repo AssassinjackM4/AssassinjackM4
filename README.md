@@ -10,7 +10,7 @@ AI Agent Full-stack developer with hands-on experience in Python, Java, Spring B
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>🚀 Portfolio AI Fullstack Agent</h3>
+      <h3><a href="https://github.com/AssassinjackM4/Portfolio-AI-Fullstack">🚀 Portfolio AI Fullstack Agent</a></h3>
       <p style="font-size: 12px;"> AI-powered personal portfolio AI chatbot that represents you as a job candidate. HR and recruiters can ask questions about your qualifications, experience, and skills - powered by advanced LLM technology with FastAPI + React Vite.
 
 </p>
@@ -31,7 +31,7 @@ AI Agent Full-stack developer with hands-on experience in Python, Java, Spring B
       </p>
     </td>
     <td align="center" width="50%">
-      <h3>✈️ Space Airline Management System</h3>
+      <h3><a href="https://github.com/AssassinjackM4/Space-Airline-App">✈️ Space Airline Management System</a></h3>
       <p style="font-size: 12px;">Full-stack Airline booking and Management System.
       Airline transportation system with real-time flight tracking, ticket booking, seat reservation</p>
       <p>
@@ -53,7 +53,7 @@ AI Agent Full-stack developer with hands-on experience in Python, Java, Spring B
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h3>💼 Indeed-Style Application</h3>
+      <h3><a href="https://github.com/AssassinjackM4/Indeed-Application">💼 Indeed-Style Application</a></h3>
       <p style="font-size: 12px;">Job portal application with Indeed-style design and functionality. Built a full-stack job portal where employers can post jobs and candidates can search, apply, and
 manage applications.
       </p>
@@ -74,7 +74,7 @@ manage applications.
       </p>
     </td>
     <td align="center" width="50%">
-      <h3>🤖 Yuki AI Assistant</h3>
+      <h3><a href="https://github.com/AssassinjackM4/yukiai-app">🤖 Yuki AI Assistant</a></h3>
       <p style="font-size: 12px;">Advanced AI-powered chat service featuring real-time conversation, Image generation (Google Image) and Recipe generation powered by Groq AI’s lightning-fast inference. Multi-modal AI.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat" height="20" alt="Java"/>
