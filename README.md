@@ -10,7 +10,7 @@ AI Agent Full-stack developer with hands-on experience in Python, Java, Spring B
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3><a href="https://github.com/AssassinjackM4/Portfolio-AI-Fullstack">🚀 Portfolio AI Fullstack Agent</a></h3>
+      <h3><a href="https://github.com/AssassinjackM4/Portfolio-AI-Fullstack">🤖 Portfolio AI Fullstack Agent</a></h3>
       <p style="font-size: 12px;"> AI-powered personal portfolio AI chatbot that represents you as a job candidate. HR and recruiters can ask questions about your qualifications, experience, and skills - powered by advanced LLM technology with FastAPI + React Vite.
 
 </p>
