@@ -10,7 +10,7 @@ AI Full-stack developer with hands-on experience in Python, Java, Spring Boot, R
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>🚀 Portfolio AI Fullstack</h3>
+      <h3>🚀 Portfolio AI Fullstack Agent</h3>
       <p style="font-size: 12px;"> AI-powered personal portfolio AI chatbot that represents you as a job candidate. HR and recruiters can ask questions about your qualifications, experience, and skills - powered by advanced LLM technology with FastAPI + React Vite.
 
 </p>
