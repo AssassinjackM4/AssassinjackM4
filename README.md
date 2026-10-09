@@ -1,5 +1,5 @@
 # 💫 About Me:
-AI Full-stack developer with hands-on experience in Python, Java, Spring Boot, React, MongoDB, RESTful APIs, and cloud deployment using Vercel and Render. Built and deployed projects including an Portfolio AI Fullstack, Space Airline Management System, Indeed-style Job Portal and Yuki AI Assistant. Passionate about building scalable web applications and learning modern technologies.
+AI Agent Full-stack developer with hands-on experience in Python, Java, Spring Boot, React, MongoDB, RESTful APIs, and cloud deployment using Vercel and Render. Built and deployed projects including an Portfolio AI Fullstack, Space Airline Management System, Indeed-style Job Portal and Yuki AI Assistant. Passionate about building scalable web applications and learning modern technologies.
 
 ---
 
