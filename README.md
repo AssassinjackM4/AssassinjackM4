@@ -2,14 +2,16 @@
   <tr>
     <td align="center" width="50%">
       <h3><a href="https://github.com/AssassinjackM4/Portfolio-AI-Fullstack">🤖 Portfolio AI Fullstack Agent</a></h3>
-      <p style="font-size: 12px;"> AI-powered personal portfolio AI chatbot that represents you as a job candidate. HR and recruiters can ask questions about your qualifications, experience, and skills - powered by advanced LLM technology with FastAPI + React Vite.
+      <p style="font-size: 12px;"> AI-powered portfolio chatbot with Multi-Agent RAG that represents you as a job candidate. HR and recruiters can ask questions about your qualifications to specialized Agents (Recruiter, Technical, Project, Career) while ChromaDB vector search grounds every Answer in real Resume data. Built with LangGraph, RAG, Groq LLM, FastAPI + React Vite.
 
 </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" height="20" alt="Python"/>
+        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=white&style=flat" height="20" alt="LangGraph"/>
+        <img src="https://img.shields.io/badge/Groq_AI-F5C542?logo=groq&logoColor=white&style=flat" height="20" alt="Groq AI"/>
+        <img src="https://img.shields.io/badge/RAG-Vector_Search-4285F4?logo=google&logoColor=white&style=flat" height="20" alt="RAG"/>
         <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" height="20" alt="React"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat" height="20" alt="FastAPI"/>
-        <img src="https://img.shields.io/badge/Groq_AI-F5C542?logo=groq&logoColor=white&style=flat" height="20" alt="Groq AI"/>
         <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white&style=flat" height="20" alt="Tailwind"/>
       </p>
       <p>
@@ -23,12 +25,14 @@
     </td>
     <td align="center" width="50%">
       <h3><a href="https://github.com/AssassinjackM4/AI-Restaurant-Order-Agent">🍽️ AI Restaurant Order Agent</a></h3>
-      <p style="font-size: 12px;">AI-powered restaurant ordering agent where an AI Chef bot checks live stock, confirms availability, cooks, and serves orders in real-time through natural conversation. Built with LangGraph agent workflow, Groq LLM, FastAPI + React Vite.
-      </p>
+      <p style="font-size: 12px;">
+🍕AI-powered restaurant ordering system with Multi-Agent RAG an AI Chef agent routes each customer request to specialized agents (Order Management, Inventory Check, Cooking, Serving), while RAG-powered menu intelligence grounds every response in live stock and dish data. The AI Chef bot confirms availability, cooks, and serves orders in real-time through natural conversation. Built with LangGraph agent workflow, Groq LLM, FastAPI + React Vite.
+</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" height="20" alt="Python"/>
         <img src="https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=white&style=flat" height="20" alt="LangGraph"/>
         <img src="https://img.shields.io/badge/Groq_AI-F5C542?logo=groq&logoColor=white&style=flat" height="20" alt="Groq AI"/>
+        <img src="https://img.shields.io/badge/RAG-Vector_Search-4285F4?logo=google&logoColor=white&style=flat" height="20" alt="RAG"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat" height="20" alt="FastAPI"/>
         <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" height="20" alt="React"/>
         <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat" height="20" alt="Vite"/>
