@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3><a href="https://github.com/AssassinjackM4/Portfolio-AI-Fullstack">🤖 Portfolio AI Fullstack Agent</a></h3>
+      <h3><a href="https://github.com/AssassinjackM4/Portfolio-AI-Fullstack">🤖 Portfolio AI Multi Agent RAG</a></h3>
       <p style="font-size: 12px;"> AI-powered portfolio chatbot with Multi-Agent RAG that represents you as a job candidate. HR and recruiters can ask questions about your qualifications to specialized Agents (Recruiter, Technical, Project, Career) while ChromaDB vector search grounds every Answer in real Resume data. Built with LangGraph, RAG, Groq LLM, FastAPI + React Vite.
 
 </p>
