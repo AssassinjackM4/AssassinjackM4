@@ -24,7 +24,7 @@
       </p>
     </td>
     <td align="center" width="50%">
-      <h3><a href="https://github.com/AssassinjackM4/AI-Restaurant-Order-Agent">🍽️ AI Restaurant Order Agent</a></h3>
+      <h3><a href="https://github.com/AssassinjackM4/AI-Restaurant-Order-Agent">🍽️ Multi Agent RAG Restaurant Ordering</a></h3>
       <p style="font-size: 12px;">
 🍕AI-powered restaurant ordering system with Multi-Agent RAG an AI Chef agent routes each customer request to specialized agents (Order Management, Inventory Check, Cooking, Serving), while RAG-powered menu intelligence grounds every response in live stock and dish data. The AI Chef bot confirms availability, cooks, and serves orders in real-time through natural conversation. Built with LangGraph agent workflow, Groq LLM, FastAPI + React Vite.
 </p>
