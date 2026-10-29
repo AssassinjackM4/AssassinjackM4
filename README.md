@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3><a href="https://github.com/AssassinjackM4/Portfolio-AI-Fullstack">🤖 Portfolio AI Multi Agent RAG</a></h3>
+      <h3><a href="https://github.com/AssassinjackM4/Portfolio-AI-Multi-Agent-RAG">🤖 Portfolio AI Multi Agent RAG</a></h3>
       <p style="font-size: 12px;"> AI-powered portfolio chatbot with Multi-Agent RAG that represents you as a job candidate. HR and recruiters can ask questions about your qualifications to specialized Agents (Recruiter, Technical, Project, Career) while ChromaDB vector search grounds every Answer in real Resume data. Built with LangGraph, RAG, Groq LLM, FastAPI + React Vite.
 
 </p>
@@ -15,16 +15,16 @@
         <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white&style=flat" height="20" alt="Tailwind"/>
       </p>
       <p>
-        <a href="https://portfolio-ai-fullstack1.vercel.app/">
+        <a href="https://portfolio-ai-multi-agent-rag.vercel.app/">
           <img src="https://img.shields.io/badge/Live_Demo-Click here-2ea44f?style=flat&logo=vercel&logoColor=white" height="22" alt="Live Demo"/>
         </a>
-        <a href="https://github.com/AssassinjackM4/Portfolio-AI-Fullstack">
+        <a href="https://github.com/AssassinjackM4/Portfolio-AI-Multi-Agent-RAG">
           <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" height="22" alt="GitHub"/>
         </a>
       </p>
     </td>
     <td align="center" width="50%">
-      <h3><a href="https://github.com/AssassinjackM4/AI-Restaurant-Order-Agent">🍽️ Multi Agent RAG Restaurant Ordering</a></h3>
+      <h3><a href="https://github.com/AssassinjackM4/Multi-Agent-RAG-Restaurant-Ordering">🍽️ Multi Agent RAG Restaurant Ordering</a></h3>
       <p style="font-size: 12px;">
 🍕AI-powered restaurant ordering system with Multi-Agent RAG an AI Chef agent routes each customer request to specialized agents (Order Management, Inventory Check, Cooking, Serving), while RAG-powered menu intelligence grounds every response in live stock and dish data. The AI Chef bot confirms availability, cooks, and serves orders in real-time through natural conversation. Built with LangGraph agent workflow, Groq LLM, FastAPI + React Vite.
 </p>
@@ -38,10 +38,10 @@
         <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat" height="20" alt="Vite"/>
       </p>
       <p>
-        <a href="https://ai-restaurant-order-agent.vercel.app/">
+        <a href="https://multi-agent-rag-restaurant-ordering.vercel.app/">
           <img src="https://img.shields.io/badge/Live_Demo-Click here-2ea44f?style=flat&logo=vercel&logoColor=white" height="22" alt="Live Demo"/>
         </a>
-        <a href="https://github.com/AssassinjackM4/AI-Restaurant-Order-Agent">
+        <a href="https://github.com/AssassinjackM4/Multi-Agent-RAG-Restaurant-Ordering">
           <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" height="22" alt="GitHub"/>
         </a>
       </p>
